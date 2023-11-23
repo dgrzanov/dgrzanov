@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+My name is Dino Gržanov.
+I'm a **Junior Developer** at [Prehnit](https://prehnit.hr/hr/) and currently pursuing **Master's degree** in Software Engineering at [FER](https://www.fer.unizg.hr/).
+I consider myself a fullstack developer since I find frontend and backend equally interesting.
+
+Some fields I find interesting include automotive engineering and geoinformatics.
+
 
 <!--
 **dgrzanov/dgrzanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
