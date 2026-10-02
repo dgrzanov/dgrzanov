@@ -1,6 +1,6 @@
 ### About me
 My name is Dino Gržanov.
-I'm a **Software Developer** at [Devōt](https://devot.team/) and currently pursuing **Master's degree** in Software Engineering at [FER](https://www.fer.unizg.hr/).
+I'm a **Software Developer** at [Devōt](https://devot.team/).
 I'm a fullstack developer, but I find backend development more interesting.
 
 Some fields I find interesting include automotive engineering and geoinformatics.
